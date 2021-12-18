@@ -1,0 +1,13 @@
+package com.binh.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class Colors {
+	private String color;
+	
+}
